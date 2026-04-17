@@ -12,6 +12,8 @@
 
 **[Windstorm-Institute/hardware-basin](https://github.com/Windstorm-Institute/hardware-basin)** — paper PDF, article HTML
 
+**Website article:** [windstorminstitute.org/articles/hardware-basin.html](https://windstorminstitute.org/articles/hardware-basin.html)
+
 **Zenodo:** DOI pending (preprint)
 
 ## Experiments
