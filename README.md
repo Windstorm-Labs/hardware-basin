@@ -2,6 +2,7 @@
 
 **Why the Quantization Cliff Is About Level Allocation, Not Bit Count**
 
+[![Status: Preprint](https://img.shields.io/badge/Status-Preprint-orange)](#)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-green)](https://opensource.org/licenses/MIT)
 [![License: CC BY 4.0](https://img.shields.io/badge/Data-CC_BY_4.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -9,7 +10,9 @@
 
 ## Published Paper
 
-**[Windstorm-Institute/hardware-basin](https://github.com/Windstorm-Institute/hardware-basin)** — paper PDF
+**[Windstorm-Institute/hardware-basin](https://github.com/Windstorm-Institute/hardware-basin)** — paper PDF, article HTML
+
+**Zenodo:** DOI pending (preprint)
 
 ## Experiments
 
