@@ -2,7 +2,7 @@
 
 **Why the Quantization Cliff Is About Level Allocation, Not Bit Count**
 
-[![Status: Preprint](https://img.shields.io/badge/Status-Preprint-orange)](#)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19672921-blue)](https://doi.org/10.5281/zenodo.19672921)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-green)](https://opensource.org/licenses/MIT)
 [![License: CC BY 4.0](https://img.shields.io/badge/Data-CC_BY_4.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -14,7 +14,7 @@
 
 **Website article:** [windstorminstitute.org/articles/hardware-basin.html](https://windstorminstitute.org/articles/hardware-basin.html)
 
-**Zenodo:** DOI pending (preprint)
+**Zenodo (concept DOI, always-latest):** [10.5281/zenodo.19672921](https://doi.org/10.5281/zenodo.19672921) · **v2.2:** [10.5281/zenodo.19672922](https://doi.org/10.5281/zenodo.19672922)
 
 ## Experiments
 
