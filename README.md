@@ -41,7 +41,25 @@
 ## Reproduction
 
 All CSVs in `experiments/*/results/` are raw outputs. Plots in `plots/`.
-Training/analysis scripts are in: [Windstorm-Institute/throughput-basin-origin](https://github.com/Windstorm-Institute/throughput-basin-origin)
+Training/analysis scripts are in: [Windstorm-Institute/throughput-basin-origin](https://github.com/Windstorm-Institute/throughput-basin-origin) under `paper9/` and `weekend_experiments/p9_*/`, `weekend_experiments/decisive_round/exp6_lloydmax_int3/`, `weekend_experiments/grandslam/gs3_structural_bonus/`, `weekend_experiments/robust_round/r4_structural_bonus/`, and `weekend_experiments/final_round/p9_f1_nf4_int3/` and `p9_f2_level_allocation_all/`.
+
+---
+
+## The Windstorm Series
+
+| # | Paper | DOI |
+|---|-------|-----|
+| 1 | [The Fons Constraint](https://github.com/Windstorm-Institute/fons-constraint) | [10.5281/zenodo.19274048](https://doi.org/10.5281/zenodo.19274048) |
+| 2 | [The Receiver-Limited Floor](https://github.com/Windstorm-Institute/receiver-limited-floor) | [10.5281/zenodo.19322973](https://doi.org/10.5281/zenodo.19322973) |
+| 3 | [The Throughput Basin](https://github.com/Windstorm-Institute/throughput-basin) | [10.5281/zenodo.19323194](https://doi.org/10.5281/zenodo.19323194) |
+| 4 | [The Serial Decoding Basin τ](https://github.com/Windstorm-Institute/serial-decoding-basin) | [10.5281/zenodo.19323423](https://doi.org/10.5281/zenodo.19323423) |
+| 5 | [The Dissipative Decoder](https://github.com/Windstorm-Institute/dissipative-decoder) | [10.5281/zenodo.19433048](https://doi.org/10.5281/zenodo.19433048) |
+| 6 | [The Inherited Constraint](https://github.com/Windstorm-Institute/inherited-constraint) | [10.5281/zenodo.19432911](https://doi.org/10.5281/zenodo.19432911) |
+| 7 | [The Throughput Basin Origin](https://github.com/Windstorm-Institute/throughput-basin-origin) | [10.5281/zenodo.19498582](https://doi.org/10.5281/zenodo.19498582) |
+| 8 | [The Vision Basin](https://github.com/Windstorm-Institute/vision-basin) | [10.5281/zenodo.19672827](https://doi.org/10.5281/zenodo.19672827) |
+| 9 | [The Hardware Basin](https://github.com/Windstorm-Institute/hardware-basin) *(this paper)* | [10.5281/zenodo.19672921](https://doi.org/10.5281/zenodo.19672921) |
+
+**Website:** [windstorminstitute.org](https://windstorminstitute.org)
 
 ---
 
