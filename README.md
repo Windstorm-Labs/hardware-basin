@@ -45,6 +45,14 @@ Training/analysis scripts are in: [Windstorm-Institute/throughput-basin-origin](
 
 ---
 
+## Discuss this code
+
+- **Bug, reproduction failure, or unexpected output?** → [Open an Issue](../../issues)
+- **Q&A — version compatibility, hardware, generalization to other inputs?** → [Start a Discussion](../../discussions)
+- **Discuss the paper itself** → [Comments on the website article](https://windstorminstitute.org/articles/hardware-basin.html#comments) or [Issues on the Institute repo](https://github.com/Windstorm-Institute/hardware-basin/issues)
+
+---
+
 ## The Windstorm Series
 
 | # | Paper | DOI |
