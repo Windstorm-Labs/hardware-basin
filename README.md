@@ -32,7 +32,7 @@
 
 ## Hardware
 
-- **GPU:** NVIDIA RTX 5090 (32 GB VRAM)
+- **GPU:** Current-generation Nvidia GPU (32 GB VRAM, CUDA)
 - **CPU:** Intel Core Ultra 9 285K (24 cores)
 - **RAM:** 256 GB
 - **Chipyard/Gemmini:** Built and ready (not yet used for cycle-accurate simulation)
