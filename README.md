@@ -4,6 +4,7 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19672921-blue)](https://doi.org/10.5281/zenodo.19672921)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-green)](https://opensource.org/licenses/MIT)
+[![Track: Throughput Basin](https://img.shields.io/badge/Track-1_·_Throughput_Basin-3b82f6)](https://windstorminstitute.org/#track1)
 [![License: CC BY 4.0](https://img.shields.io/badge/Data-CC_BY_4.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
